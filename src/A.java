@@ -40,6 +40,7 @@ public class A {
                     for(int i=0; i<5; i++){
                         System.out.println(respuesta);
                     }
+                    break;
             }
 
         } catch (InterruptedException e) {
